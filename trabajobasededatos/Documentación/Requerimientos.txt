@@ -1,0 +1,11 @@
+Requerimientos:
+Guardar información de alumnos
+Tener un registro de anotaciones
+Solicitar información de alumnos
+Tener registro de días de faltas
+Solicitar tablas requeridas por directora 
+Debe registra datos de alumno 
+Mostrar curso de estudiante
+Actualizar información de alumno 
+Ingresar estudiantes nuevos 
+cambiar descripcion de alumnos  
